@@ -6,7 +6,7 @@ class App extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      list: ['Javascript', 'CSS', 'HTML', 'React']
+      list: ['Javascript', 'CSS', 'HTLM', 'React']
     }
   }
   render() {
